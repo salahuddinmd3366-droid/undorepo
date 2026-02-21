@@ -3,6 +3,8 @@ resource "azurerm_resource_group" "name" {
     location = "southindia"
     tags = {
       owner = dev
+owner -="ke"
     }
+
   
 }
