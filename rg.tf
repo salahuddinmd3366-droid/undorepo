@@ -4,6 +4,7 @@ resource "azurerm_resource_group" "name" {
     tags = {
       owner = dev
 owner -="ke"
+depsrt5mrnt 
     }
 
   
